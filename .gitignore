@@ -1,0 +1,15 @@
+# 构建产物
+build/
+dist/
+__pycache__/
+*.pyc
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 测试临时文件
+_test/
+_t2/
+*.bak
